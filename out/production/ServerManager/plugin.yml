@@ -1,0 +1,23 @@
+name: ServerManager
+version: 1.0
+
+author: Jolen
+
+main: de.ServerManager.mPlugins.ServerManager
+
+commands:
+
+  chatclear:
+  night:
+  day:
+  cclear:
+  rl:
+  survival:
+  creative:
+  spectator:
+  times:
+  gm:
+  midnight:
+  noon:
+  time:
+  sm:

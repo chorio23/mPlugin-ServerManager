@@ -10,7 +10,6 @@ public class helpCommand implements CommandExecutor {
             sender.sendMessage("§e[ServerManager] §7Auflistung aller Befehle des Plugins:");
             sender.sendMessage("§e/time §7Zeit kann durch Klicken ausgewählt werden");
             sender.sendMessage("§e/gm §7Gamemode kann durch Klicken ausgewählt werden");
-            sender.sendMessage("§e/wclear §7Umstellung auf niederschlagsfreies Wetter ");
             sender.sendMessage("§e/cclear §7Löscht alle Chatnachrichten");
         }
         return false;
