@@ -1,0 +1,34 @@
+# ServerManager by Jolen Rackow
+# In der Config sind folgene Farbcodes verwendbar: https://minecraft-de.gamepedia.com/Formatierungscodes
+
+
+# Einstellungen
+
+
+# Scoreboard anzeigen
+scoreboard: true
+
+# ServerName
+serverName: "ServerNAME"
+
+# Join - Message
+joinmessage1: "§aDer Spieler §6"
+    # Zwischen beiden Nachrichten wird der Spielername angezeigt
+joinmessage2: "§a hat den Server betreten"
+
+# Admin Prefix/Suffix
+# Prefix = Das was vor dem Namen steht,
+# Suffix = Das was hinter dem Namen steht
+adminPrefix : "§4Admin §c| §4"
+adminSuffix : ""
+
+# default Prefix/Suffix
+defaultPrefix: ""
+defaultSuffix: " §e| Spieler"
+
+
+
+
+
+
+
