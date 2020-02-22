@@ -3,7 +3,7 @@ version: 1.0
 
 author: Jolen
 
-main: de.ServerManager.mPlugins.ServerManager
+main: de.ServerManager.ServerManager
 
 commands:
 
@@ -20,4 +20,5 @@ commands:
   midnight:
   noon:
   time:
+  smhelp:
   sm:

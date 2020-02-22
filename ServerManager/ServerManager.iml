@@ -19,13 +19,14 @@
     <orderEntry type="module-library" scope="PROVIDED">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/MinecraftDEV/DEV Server/spigot.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/MinecraftDEV\DEVSpigot\spigot.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Desktop/MinecraftDEV/DEV Server/spigot.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/MinecraftDEV\DEVSpigot/spigot.jar!/"/>
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="spigot" level="project" />
   </component>
 </module>
