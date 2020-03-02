@@ -2,9 +2,6 @@ package de.ServerManager;
 
 import de.ServerManager.commands.*;
 import de.ServerManager.listener.JoinListener;
-import de.ServerManager.commands.ChatClearCommand;
-import de.ServerManager.commands.dayCommand;
-import de.ServerManager.commands.nightCommand;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
